@@ -1,6 +1,4 @@
-Copia y pega la siguiente plantilla directamente en tu README.md (haciendo clic en el ícono del lápiz que se ve arriba a la derecha en tu captura):
 
-Markdown
 # Análisis Exploratorio de Datos: Palmer Penguins 🐧
 
 Este repositorio contiene un Análisis Exploratorio de Datos (EDA) y un estudio estadístico detallado sobre el conjunto de datos de los **Pingüinos de Palmer** (`species`, `longitud_pico_mm`, `grosor_pico_mm`, `longitud_aleta_mm`, `masa_corporal_g`).
